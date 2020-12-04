@@ -8,7 +8,7 @@ const Cover = () => {
            <Navbar />
            <CoverContent>
                <CoverItems>
-                   <Coverh1>Greatest Books Ever</Coverh1>
+                   <Coverh1>Best Selling Books</Coverh1>
                    <CoverP>Get ready to Read!!</CoverP>
                 </CoverItems>
             </CoverContent>

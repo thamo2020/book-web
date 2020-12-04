@@ -12,5 +12,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Screenshots-
+
+- Screenshot 01 
 ![ScreenShots 01](<./Screenshots/screenshot_1.png>) 
+
+- Screenshot 02
 ![ScreenShots 02](<./Screenshots/screenshot_2.png>)
